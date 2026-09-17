@@ -1,0 +1,11 @@
+# Snapshot of user-level overrides from ~/.codex/config.toml.
+# This file is for backup/reference and is not loaded automatically by Codex.
+
+model_reasoning_effort = "high"
+approval_policy = "on-request"
+sandbox_mode = "workspace-write"
+approvals_reviewer = "auto_review"
+
+[features]
+memories = true
+memory_tool = true
